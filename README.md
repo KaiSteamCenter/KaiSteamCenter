@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mekhi.</h1>
+<h1 align="center">Hi 👋, I'm Mekhi!</h1>
 <h3 align="center">A passionate Full-Stack Developer from Brooklyn, New York!</h3>
 
 - 🔭 I’m currently working on **Industry Scholars Program, (Spring Internship).**
