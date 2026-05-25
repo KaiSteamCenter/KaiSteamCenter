@@ -7,8 +7,6 @@
 
 - 📫 How to reach me [https://www.linkedin.com/in/mekhim/](https://www.linkedin.com/in/mekhim/)
 
-- 📫 My Portfolio **https://sites.google.com/brooklynsteamcenter.org/mekhi-mcfowler/home**
-
 - 📫 How to reach me **mmcfowler@brooklynsteamcenter.org**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UWVl7pt7O0gX8hlIGXe-ULgfPK-gEwg6/view?usp=sharing](https://drive.google.com/file/d/1UWVl7pt7O0gX8hlIGXe-ULgfPK-gEwg6/view?usp=sharing)
